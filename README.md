@@ -37,7 +37,7 @@ Foi idealizado para ser uma aplicação Web, que busca atender amantes dos espor
 
 ##  2. Concepção do Produto e Usabilidade: 
 
-Inicíamos o projeto com uma pesquisa histórica, sobre o início das olimpíadas, onde reunimos relatos para traçar um parelelo desde  a primeira edição dos Jogos da Era Moderda (1.896), até a Rio 2016.
+Inicíamos o projeto com uma pesquisa histórica, sobre o início das olimpíadas, reunimos relatos para traçar um parelelo desde  a primeira edição dos Jogos da Era Moderda (1.896), até a Rio 2016.
 
 Pensamos em uma aplicação intuitiva, rápida e prática, que englobasse informações históricas e atuais, sobre o contexto dos jogos. Conteúdos sobre os atletas, modalidades, países participantes e curiosidades. 
 
